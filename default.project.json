@@ -1,0 +1,9 @@
+{
+  "name": "click-to-ten",
+  "tree": {
+    "$path": "src",
+    "packages": {
+      "$path": "Packages"
+    }
+  }
+}
